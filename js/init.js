@@ -1,10 +1,15 @@
 // Initialize Firebase
   firebase.initializeApp({
-    apiKey: "AIzaSyBO4mRZT8b2dbOTmP4ijaV5eJ7JskKQ5bM",
-    authDomain: "alondrahezx.firebaseapp.com",
-    projectId: "alondrahezx",
-    storageBucket: "alondrahezx.appspot.com",
-    messagingSenderId: "308805687207",
-    appId: "1:308805687207:web:109f6fc91329ed042c0882"
+    apiKey: "AIzaSyC5TjqSrXMb59sBq-ENbZUM-W8qSK-Q09g",
+    authDomain: "dmmarre1.firebaseapp.com",
+    projectId: "dmmarre1",
+    storageBucket: "dmmarre1.appspot.com",
+    messagingSenderId: "1010232187267",
+    appId: "1:1010232187267:web:e7e80978da4ff9636fbeb6"
   });
+
   
+  
+
+   
+ 
